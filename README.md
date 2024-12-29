@@ -14,3 +14,5 @@ Welcome to **AI Interview Mocker**, an innovative platform designed to help you 
 - **📂 Review Past Interviews**: Easily access and track your previous interview sessions.
 
 ---
+
+## 🧑‍💻 This was developed by Fatima Toko Ali. Contact me at fatima6295@bazeuniversity.edu.ng
